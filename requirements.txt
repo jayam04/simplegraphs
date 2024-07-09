@@ -1,6 +1,3 @@
-fastapi
-uvicorn
-pandas
+Flask
 matplotlib
-requests
-python-multipart
+pandas
